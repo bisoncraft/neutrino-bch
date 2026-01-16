@@ -6,9 +6,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/dcrlabs/neutrino-bch/headerfs"
+	"github.com/bisoncraft/neutrino-bch/headerfs"
 
-	"github.com/dcrlabs/bchwallet/walletdb"
+	"github.com/bisoncraft/bchwallet/walletdb"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/wire"

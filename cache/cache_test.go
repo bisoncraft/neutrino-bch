@@ -4,9 +4,9 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/dcrlabs/neutrino-bch/cache"
-	"github.com/dcrlabs/neutrino-bch/cache/lru"
-	"github.com/dcrlabs/neutrino-bch/filterdb"
+	"github.com/bisoncraft/neutrino-bch/cache"
+	"github.com/bisoncraft/neutrino-bch/cache/lru"
+	"github.com/bisoncraft/neutrino-bch/filterdb"
 
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/wire"

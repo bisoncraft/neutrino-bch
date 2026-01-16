@@ -1,10 +1,12 @@
-module github.com/dcrlabs/neutrino-bch
+module github.com/bisoncraft/neutrino-bch
 
-go 1.18
+go 1.24.0
+
+toolchain go1.24.4
 
 require (
+	github.com/bisoncraft/bchwallet v0.0.0-20260116171814-abd521c8a217
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dcrlabs/bchwallet v0.0.0-20240114115928-2a995d024eed
 	github.com/gcash/bchd v0.19.0
 	github.com/gcash/bchlog v0.0.0-20180913005452-b4f036f92fa6
 	github.com/gcash/bchutil v0.0.0-20210113190856-6ea28dff4000
@@ -20,7 +22,7 @@ require (
 	github.com/lightninglabs/gozmq v0.0.0-20191113021534-d20a764486bf // indirect
 	github.com/zquestz/grab v0.0.0-20190224022517-abcee96e61b1 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
-	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
-	golang.org/x/sys v0.0.0-20220503163025-988cb79eb6c6 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/crypto v0.47.0 // indirect
+	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/text v0.33.0 // indirect
 )

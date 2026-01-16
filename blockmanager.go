@@ -13,11 +13,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dcrlabs/neutrino-bch/banman"
-	"github.com/dcrlabs/neutrino-bch/blockntfns"
-	"github.com/dcrlabs/neutrino-bch/chainsync"
-	"github.com/dcrlabs/neutrino-bch/headerfs"
-	"github.com/dcrlabs/neutrino-bch/headerlist"
+	"github.com/bisoncraft/neutrino-bch/banman"
+	"github.com/bisoncraft/neutrino-bch/blockntfns"
+	"github.com/bisoncraft/neutrino-bch/chainsync"
+	"github.com/bisoncraft/neutrino-bch/headerfs"
+	"github.com/bisoncraft/neutrino-bch/headerlist"
 
 	"github.com/gcash/bchd/blockchain"
 	"github.com/gcash/bchd/chaincfg"

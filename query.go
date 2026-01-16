@@ -8,9 +8,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dcrlabs/neutrino-bch/cache"
-	"github.com/dcrlabs/neutrino-bch/filterdb"
-	"github.com/dcrlabs/neutrino-bch/pushtx"
+	"github.com/bisoncraft/neutrino-bch/cache"
+	"github.com/bisoncraft/neutrino-bch/filterdb"
+	"github.com/bisoncraft/neutrino-bch/pushtx"
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/gcash/bchd/blockchain"

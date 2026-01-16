@@ -3,7 +3,7 @@ package pushtx_test
 import (
 	"testing"
 
-	"github.com/dcrlabs/neutrino-bch/pushtx"
+	"github.com/bisoncraft/neutrino-bch/pushtx"
 
 	"github.com/gcash/bchd/wire"
 )

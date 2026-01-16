@@ -3,7 +3,7 @@ package queue_test
 import (
 	"testing"
 
-	"github.com/dcrlabs/neutrino-bch/blockntfns/queue"
+	"github.com/bisoncraft/neutrino-bch/blockntfns/queue"
 )
 
 func testQueueAddDrain(t *testing.T, size, numStart, numStop, numAdd, numDrain int) {

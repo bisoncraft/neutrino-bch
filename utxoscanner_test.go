@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/wire"
 	"github.com/gcash/bchutil"

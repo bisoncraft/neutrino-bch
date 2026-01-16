@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/dcrlabs/neutrino-bch/blockntfns"
+	"github.com/bisoncraft/neutrino-bch/blockntfns"
 
 	"github.com/gcash/bchd/wire"
 )

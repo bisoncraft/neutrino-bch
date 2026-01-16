@@ -1,7 +1,7 @@
 package headerlist
 
 import (
-	"github.com/dcrlabs/neutrino-bch/headerfs"
+	"github.com/bisoncraft/neutrino-bch/headerfs"
 
 	"github.com/gcash/bchd/wire"
 )

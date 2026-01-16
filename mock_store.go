@@ -5,9 +5,9 @@ import (
 
 	"time"
 
-	"github.com/dcrlabs/neutrino-bch/headerfs"
+	"github.com/bisoncraft/neutrino-bch/headerfs"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
 	"github.com/gcash/bchd/blockchain"
 	"github.com/gcash/bchd/chaincfg/chainhash"
 	"github.com/gcash/bchd/wire"

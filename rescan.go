@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dcrlabs/neutrino-bch/blockntfns"
-	"github.com/dcrlabs/neutrino-bch/headerfs"
+	"github.com/bisoncraft/neutrino-bch/blockntfns"
+	"github.com/bisoncraft/neutrino-bch/headerfs"
 
-	"github.com/dcrlabs/bchwallet/waddrmgr"
+	"github.com/bisoncraft/bchwallet/waddrmgr"
 	"github.com/gcash/bchd/btcjson"
 	"github.com/gcash/bchd/chaincfg"
 	"github.com/gcash/bchd/chaincfg/chainhash"

@@ -12,10 +12,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dcrlabs/neutrino-bch/cache"
-	"github.com/dcrlabs/neutrino-bch/cache/lru"
-	"github.com/dcrlabs/neutrino-bch/filterdb"
-	"github.com/dcrlabs/neutrino-bch/headerfs"
+	"github.com/bisoncraft/neutrino-bch/cache"
+	"github.com/bisoncraft/neutrino-bch/cache/lru"
+	"github.com/bisoncraft/neutrino-bch/filterdb"
+	"github.com/bisoncraft/neutrino-bch/headerfs"
 
 	"github.com/gcash/bchd/blockchain"
 	"github.com/gcash/bchd/chaincfg"
