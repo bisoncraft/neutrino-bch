@@ -153,8 +153,8 @@ github.com/dchest/siphash v1.2.1/go.mod h1:q+IRvb2gOSrUnYoPqHiyHXS0FOBBOdl6tONBl
 github.com/dchest/siphash v1.2.2/go.mod h1:q+IRvb2gOSrUnYoPqHiyHXS0FOBBOdl6tONBlVnOnt4=
 github.com/dchest/siphash v1.2.3 h1:QXwFc8cFOR2dSa/gE6o/HokBMWtLUaNDVd+22aKHeEA=
 github.com/dchest/siphash v1.2.3/go.mod h1:0NvQU092bT0ipiFN++/rXm69QG9tVxLAlQHIXMPAkHc=
-github.com/dcrlabs/bchwallet v0.0.0-20240114115928-2a995d024eed h1:QMVfGsfq5mfy+WH1lda5ZNVmSeNyWhdgnR4P/XBfPBk=
-github.com/dcrlabs/bchwallet v0.0.0-20240114115928-2a995d024eed/go.mod h1:dX7SZgs+dmGL56e6KHn+MktfriF/aM2qI4yYK56ySEQ=
+github.com/bisoncraft/bchwallet v0.0.0-20240114115928-2a995d024eed h1:QMVfGsfq5mfy+WH1lda5ZNVmSeNyWhdgnR4P/XBfPBk=
+github.com/bisoncraft/bchwallet v0.0.0-20240114115928-2a995d024eed/go.mod h1:dX7SZgs+dmGL56e6KHn+MktfriF/aM2qI4yYK56ySEQ=
 github.com/denis-tingajkin/go-header v0.4.2/go.mod h1:eLRHAVXzE5atsKAnNRDB90WHCFFnBUn4RN0nRcs1LJA=
 github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f/go.mod h1:xH/i4TFMt8koVQZ6WFms69WAsDWr2XsYL3Hkl7jkoLE=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=

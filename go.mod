@@ -1,10 +1,10 @@
-module github.com/dcrlabs/neutrino-bch
+module github.com/bisoncraft/neutrino-bch
 
 go 1.18
 
 require (
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dcrlabs/bchwallet v0.0.0-20240114115928-2a995d024eed
+	github.com/bisoncraft/bchwallet v0.0.0-20240114115928-2a995d024eed
 	github.com/gcash/bchd v0.19.0
 	github.com/gcash/bchlog v0.0.0-20180913005452-b4f036f92fa6
 	github.com/gcash/bchutil v0.0.0-20210113190856-6ea28dff4000
